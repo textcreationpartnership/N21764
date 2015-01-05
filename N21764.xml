@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <body>
          <div type="subscription_prospectus">
-            <pb facs="tcp:028643_0000_0FDA2041D4C89E20"/>
-            <pb facs="tcp:028643_0001_0FDA2044D697EF80"/>
+            <pb facs="unknown:028643_0000_0FDA2041D4C89E20"/>
+            <pb facs="unknown:028643_0001_0FDA2044D697EF80"/>
             <head>TO THE PUBLIC.</head>
             <p>
                <gap reason="illegible: damage" extent="1 span">
